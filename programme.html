@@ -1,0 +1,45 @@
+---
+layout: default
+---
+			<section class="billboard2">
+            <div class="container">
+			          <br>
+                <br>
+                 <br>
+			
+              <section class="programme">
+			            <div class="main">
+                      <ul id="cbp-ntaccordion" class="cbp-ntaccordion">
+<!--     All styling for the programmes is here and the mark up is in posts       -->
+                      <ul>
+                      {% for post in site.categories.program %}
+                          <li>
+                              <h3 class="cbp-nttrigger">{{ post.title }}</h3>
+                                  <div class="cbp-ntcontent">
+                                        {{ post.content }}
+                                  </div>
+                           </li>
+                                {% endfor %}
+                       </ul> 		
+					      	</div>
+				
+		      	</div>
+	
+		  </section>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+		<script src="/assets/js/jquery.cbpNTAccordion.min.js"></script>
+		<script>
+			$( function() {
+				/*
+				- how to call the plugin:
+				$( selector ).cbpNTAccordion( [options] );
+				- destroy:
+				$( selector ).cbpNTAccordion( 'destroy' );
+				*/
+
+				$( '#cbp-ntaccordion' ).cbpNTAccordion();
+
+			} );
+		</script>
+	</body>
+</html>

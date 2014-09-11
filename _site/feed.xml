@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Your awesome title</title>
+    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
+    <link>http://yourdomain.com/</link>
+    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Tiny Dragons</title>
+        <description>&lt;p&gt;Our tiny dragons class are designed to create a fun and enjoyable environment for children to learn without undue pressure to achieve.&lt;/p&gt;
+
+&lt;p&gt;The main objectives of this programme are to develop motor skills such as coordination, balance, agility and proprioceptive skills and understanding.&lt;/p&gt;
+
+&lt;p&gt;The behavioural principles of martial arts are also implemented in class to help improve discipline and focus.&lt;/p&gt;
+
+&lt;p&gt;At this stage we are aware that each child is different and develops at different rates, we assess each child on an individual basis and tailor the programme to suit their needs and abilities.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 08 Sep 2014 12:44:29 +0000</pubDate>
+        <link>http://yourdomain.com/program/2014/09/08/Jekyll/</link>
+        <guid isPermaLink="true">http://yourdomain.com/program/2014/09/08/Jekyll/</guid>
+      </item>
+    
+      <item>
+        <title>Cadet Programme: 9-13 years</title>
+        <description>&lt;p&gt;Our Cadet programmes are more technical and educational requiring each student to be taken out of their comfort zone every so often to allow for personal development both mentally and physically. This programme and environment will allow students to start developing a competitive mind-set.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 07 Sep 2014 12:44:29 +0000</pubDate>
+        <link>http://yourdomain.com/program/2014/09/07/Jekyll/</link>
+        <guid isPermaLink="true">http://yourdomain.com/program/2014/09/07/Jekyll/</guid>
+      </item>
+    
+      <item>
+        <title>Juniors and Adults</title>
+        <description>&lt;p&gt;Our Junior and adult programme focus on developing self-esteem and positive-self image. An emphasis on improving physical fitness alongside learning and knowing when and how to implement self-defence techniques is more intense than our other programmes. However we do understand that each member is different from each other and may have different levels of fitness and experience. Rest assured you will be moving at a pace that is comfortable to you and gradually build into more challenging situations and scenarios.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 06 Sep 2014 12:44:29 +0000</pubDate>
+        <link>http://yourdomain.com/program/2014/09/06/Jekyll/</link>
+        <guid isPermaLink="true">http://yourdomain.com/program/2014/09/06/Jekyll/</guid>
+      </item>
+    
+      <item>
+        <title>Sports Programme</title>
+        <description>&lt;p&gt;This programme is specific to those members who aspire to take part in national and international level competitions. Members who wish to take their competitive taekwondo training to a next level and must first show dedication to training, excellent behaviour and a desire to succeed. This programme is not for any and every member and students will only allowed to train strictly by invitation only.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 05 Sep 2014 12:44:29 +0000</pubDate>
+        <link>http://yourdomain.com/program/2014/09/05/Jekyll/</link>
+        <guid isPermaLink="true">http://yourdomain.com/program/2014/09/05/Jekyll/</guid>
+      </item>
+    
+      <item>
+        <title>Hello for PPA</title>
+        <description>&lt;p&gt;Hello World&lt;/p&gt;
+</description>
+        <pubDate>Fri, 05 Sep 2014 12:44:29 +0000</pubDate>
+        <link>http://yourdomain.com/blog/2014/09/05/Blog/</link>
+        <guid isPermaLink="true">http://yourdomain.com/blog/2014/09/05/Blog/</guid>
+      </item>
+    
+  </channel>
+</rss>
